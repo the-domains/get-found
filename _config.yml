@@ -1,14 +1,28 @@
+name: Get Found
+favicon: null
 layout_spectrum: 0.5286738
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.538358
-  lightness: 0.3001574
-  brandStrength: 0.9171832
   brandColors:
     - '#65A4B5'
     - '#FFFFFF'
     - '#145270'
     - '#421417'
     - '#77656E'
+  brandStrength: 0.9171832
+  lightness: 0.3001574
+  saturation: 0.538358
   rhythmicContrast: 0.4076177
-typography_spectrum: 1
-name: Get Found
+purpose: []
